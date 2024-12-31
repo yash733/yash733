@@ -29,7 +29,7 @@ I am an aspiring Machine Learning/Artificial Intelligence Engineer, passionate a
   *Skills: Power BI, Figma, Clip Studio, DAX*
 
 - **PUBG Player Performance Prediction**  
-  Developed a predictive [**model using CatBoost**](https://github.com/yash733/PUBG_prediction) and GPU acceleration to forecast player rankings in PUBG matches, achieving an RMSE of **0.08** and an R2 score of **0.93** on a dataset of over **4.4 million records**. Tackled challenges with the dataset, including its **size** and **unstructured** nature, by performing feature engineering to reduce **40** initial features to **30**. Utilized key features such as kills, damage dealt, and match duration to enhance accuracy and model performance.  
+  Developed a predictive [**model using CatBoost**](https://github.com/yash733/Game_Prediction/blob/main/README.md) and GPU acceleration to forecast player rankings in PUBG matches, achieving an RMSE of **0.08** and an R2 score of **0.93** on a dataset of over **4.4 million records**. Tackled challenges with the dataset, including its **size** and **unstructured** nature, by performing feature engineering to reduce **40** initial features to **30**. Utilized key features such as kills, damage dealt, and match duration to enhance accuracy and model performance.  
   *Skills: Python, CUDA, Pandas, Numpy, Seaborn, Artificial Intelligence, Machine Learning, CatBoost, cuDNN*
 
 - **Advanced Web Scraping and Data Analysis**  
