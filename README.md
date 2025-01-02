@@ -95,3 +95,127 @@ I am an aspiring Machine Learning/Artificial Intelligence Engineer, passionate a
 - [**Programming with Python**](https://drive.google.com/file/d/10pjTNIRr9q38JVanVA_xKLL1at_eUt5M/view?usp=sharing) The training consisted of Introduction to Python, Using Variables in Python, Basics of Programming in Python, Principles of Object-oriented Programming (OOP), Connecting to SQLite Database, and Developing a GUI.
 
 -------------------
+
+
+## Mind Map: Metrics, Loss Functions, and Optimizers in ML, DL, CV, and NLP
+## Machine Learning (ML)
+### Metrics
+- **Classification:**
+  - Accuracy, Precision, Recall, F1-Score
+  - ROC-AUC
+  - Log Loss
+- **Regression:**
+  - Mean Absolute Error (MAE)
+  - Mean Squared Error (MSE)
+  - R² Score
+
+### Loss Functions
+- **Classification:**
+  - Cross-Entropy Loss
+  - Hinge Loss
+- **Regression:**
+  - MSE Loss
+  - MAE Loss
+  - Huber Loss
+
+### Optimizers
+- Gradient Descent Variants:
+  - SGD
+  - Momentum
+  - Adam
+
+---
+
+## Deep Learning (DL)
+### Metrics
+- **General:**
+  - Accuracy, Precision, Recall, F1-Score
+  - Perplexity (NLP)
+  - Top-K Accuracy (CV)
+- **Custom:**
+  - Dice Coefficient (Segmentation)
+
+### Loss Functions
+- **Classification:**
+  - Binary Cross-Entropy
+  - Categorical Cross-Entropy
+- **Regression:**
+  - Smooth L1 Loss
+  - Huber Loss
+- **Other:**
+  - Triplet Loss (CV, NLP)
+  - Contrastive Loss (Embedding Models)
+
+### Optimizers
+- **Gradient-Based:**
+  - SGD, Adam, RMSProp
+- **Advanced:**
+  - AdamW, Nadam, Lookahead
+
+---
+
+## Computer Vision (CV)
+### Metrics
+- IoU (Intersection over Union)
+- Mean Average Precision (mAP)
+- Dice Coefficient
+- Pixel Accuracy
+
+### Loss Functions
+- **Image Classification:**
+  - Cross-Entropy Loss
+- **Object Detection:**
+  - YOLO Loss (Custom)
+- **Segmentation:**
+  - Dice Loss
+  - Focal Loss
+
+### Models
+- Convolutional Neural Networks (CNNs)
+  - ResNet, VGG, EfficientNet
+- Object Detection Models
+  - YOLO, SSD, Faster R-CNN
+- Segmentation Models
+  - U-Net, Mask R-CNN
+
+---
+
+## Natural Language Processing (NLP)
+### Metrics
+- Perplexity
+- BLEU Score
+- ROUGE Score
+- Accuracy, Precision, Recall (Text Classification)
+
+### Loss Functions
+- Cross-Entropy Loss (Sequence Classification)
+- KL Divergence (Language Models)
+- Triplet Loss (Embeddings)
+
+### Models
+- Recurrent Neural Networks (RNNs)
+  - LSTM, GRU
+- Transformers
+  - BERT, GPT, T5
+- Sequence-to-Sequence Models
+  - Seq2Seq, Attention Mechanisms
+
+---
+
+## Visual Guide to Usage
+- **ML:**
+  - Use Accuracy, Precision, Recall for classification.
+  - Use MSE, MAE for regression tasks.
+  - Start with SGD, move to Adam if convergence issues arise.
+- **DL:**
+  - Use Cross-Entropy Loss for classification.
+  - Choose AdamW for deep models.
+  - For segmentation, use Dice Loss or IoU.
+- **CV:**
+  - Use Dice Coefficient for segmentation metrics.
+  - Evaluate object detection with mAP.
+- **NLP:**
+  - Use BLEU/ROUGE for translation tasks.
+  - Use Perplexity for language model evaluation.
+  - Choose Cross-Entropy Loss for sequence classification.
+
