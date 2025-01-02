@@ -48,7 +48,7 @@ I am an aspiring Machine Learning/Artificial Intelligence Engineer, passionate a
 ## 🏢 EXPERIENCE:
 
 ### Client Implementation Intern (Product Analyst)  
-**EXXAT** | Vadodara, India | *2024.09–Present*  
+**EXXAT** | Vadodara, India | *2024.09–2024.12*  
 - Automated **15** key processes with Python scripts, saving **351.16 hours** to date. Created reports and dashboards in Excel, Power BI, and Tableau, increasing client satisfaction by **20%**.  
 - Leveraged YOLOv5 Computer Vision model to automate document processing, achieving **84%** faster workflows and **98%** accuracy, saving **9+ hours** to date, while ensuring **HIPAA** and **PIPEDA** compliance.  
 - Streamlined client onboarding and product implementation, achieving a **95%** success rate and resolving **40+** tickets.  
@@ -62,6 +62,15 @@ I am an aspiring Machine Learning/Artificial Intelligence Engineer, passionate a
 - Developed, trained, and deployed machine learning models, achieving **92%** accuracy and reducing prediction error by **15%**.  
 - Collaborated with the team to translate technical findings into actionable recommendations, improving decision-making by **20%**.  
 - Mastered techniques for enhancing work presentation, elevating the quality of subsequent projects.  
+
+---
+
+### Python Developer
+**Internshala** | Remote | *2022.06-2022.07*
+- Acquired a solid understanding of Python programming, including object-oriented principles and database connectivity using SQLite.
+- Gained hands-on experience in developing graphical user interfaces (GUIs) with PyQT for practical applications.
+- Explored Python's interdisciplinary applications across data analysis, automation, and more.
+- Completed a final project showcasing problem-solving skills, achieving a top performer rank with 90% marks in the assessment
 
 ---
 
