@@ -82,7 +82,7 @@ I am an aspiring Machine Learning/Artificial Intelligence Engineer, passionate a
 
 ---
 
-## 🧾 Research Papers:
+## 🏫 Research Papers:
 - [**An Implementation of Electronic Device User Profile Switching using Facial Detection**](https://github.com/yash733/An-Implementation-of-Electronic-Device-User-Profile-Switching-using-Facial-Detection), [**Published**](https://www.routledge.com/Emerging-Trends-in-IoT-and-Computing-Technologies-Proceedings-of-the-International-Conference-on-Emerging-Trends-in-IoT-and-Computing-Techno/Tripathi-Agarwal-Pal-Perwej/p/book/9781032879246) research paper in ICEICT-2023, under Taylor & Francis Group, SCOPUS Index.
 
 - [**Multi-Factor Authentication using Machine Learning**](https://github.com/yash733/Multifactor-Authentication-Using-Machine-Learning/blob/main/Springer_Nature_Multi-Factor%20Authentication%20using%20ML.pdf) Research paper acceptance at ICAEM-2024 Indexed By Scopus. Ref No : ICAEM240174
