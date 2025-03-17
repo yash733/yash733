@@ -22,7 +22,7 @@ I am an aspiring Machine Learning/Artificial Intelligence Engineer, passionate a
 
 ## Highlighted Projects:
 - **Automated Report Generation System using LangGraph and Large Language Models**  
-  Built a modula [**report generation**](https://github.com/yash733/Report_Writing_Agentic_AI) system leveraging LangGraph and Groq’s LLM, implementing parallel processing architecture that reduced generation time by **40%**. Developed type-safe data pipelines using Pydantic models and orchestrated multi-node workflows for concurrent section processing. Built an agentic AI system capable of autonomous report planning, content generation, and compilation with structured outputs. Demonstrated expertise in LLM integration, parallel computing, and graph-based workflow optimization.
+  Built a modula [**report generation**](https://github.com/yash733/Report_Writing_Agentic_AI) system leveraging LangGraph and Groq’s LLM, implementing parallel processing architecture that reduced generation time by **40%**. Developed type-safe data pipelines using Pydantic models and orchestrated multi-node workflows for concurrent section processing. Built an agentic AI system capable of autonomous report planning, content generation, and compilation with structured outputs. Demonstrated expertise in LLM integration, parallel computing, and graph-based workflow optimization.<br> 
   *Skills: Python, LangGraph, Groq LLM, Pydantic, LangChain, LangStudio*
 
 - **Google Trends Dashboard for Job Market Analysis**
