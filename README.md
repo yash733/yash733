@@ -21,6 +21,10 @@ I am an aspiring Machine Learning/Artificial Intelligence Engineer, passionate a
 
 
 ## Highlighted Projects:
+- **End-to-End Software Development Life Cycle Automation using LLM**
+  Built a [**full-stack Streamlit application**](https://github.com/yash733/SWLC_LLM) to automate the entire Software Development Life Cycle using Large Language Models. Utilized a dynamic backend with LangGraph-style state management and feedback loops to generate user stories, blueprints, and code in real time. Integrated continuous user validation and refined prompts across development stages.
+  *Skills: Python, LangChain, LangGraph, Groq, Ollama*
+  
 - **Automated Report Generation System using LangGraph and Large Language Models**  
   Built a modula [**report generation**](https://github.com/yash733/Report_Writing_Agentic_AI) system leveraging LangGraph and Groq’s LLM, implementing parallel processing architecture that reduced generation time by **40%**. Developed type-safe data pipelines using Pydantic models and orchestrated multi-node workflows for concurrent section processing. Built an agentic AI system capable of autonomous report planning, content generation, and compilation with structured outputs. Demonstrated expertise in LLM integration, parallel computing, and graph-based workflow optimization.<br> 
   *Skills: Python, LangGraph, Groq LLM, Pydantic, LangChain, LangStudio*
@@ -47,6 +51,16 @@ I am an aspiring Machine Learning/Artificial Intelligence Engineer, passionate a
 ---
 
 ## 🏢 EXPERIENCE:
+
+## AI/ML ENTHUSIAST & INDEPENDENT RESEARCHER
+**Self Improvement** | Vadodara, India | *2025.01-Present*
+- Took multiple advanced Udemy courses in Machine Learning and Large Language Models (LLMs).
+- Participated in a live cohort-based course: “Live Building Agentic AI and Generative AI Applications with Cloud (AWS & GCP).”
+- Delivered a knowledge-sharing session on LLMs and agentic AI development for task automation in businesses.
+- Attended local and virtual community meetups for AI/ML professionals to network, discuss trends, and share learnings.
+- Worked on personal projects exploring applications of agentic AI and cloud deployment strategies for intelligent systems
+
+---
 
 ### Client Implementation Intern (Product Analyst)  
 **EXXAT** | Vadodara, India | *2024.09–2024.12*  
