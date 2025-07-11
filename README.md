@@ -52,13 +52,13 @@ I am an aspiring Machine Learning/Artificial Intelligence Engineer, passionate a
 
 ## 🏢 EXPERIENCE:
 
-## AI/ML Engineer
+### AI/ML Engineer
 **Long Term Industrial Development Co.Ltd** | Tokyo, Japan | *2025.07-Present*
 - Skills: LangGraph · LangChain · Python · PyTorch · FastAPI · Machine Learning · Deep Learning · Natural Language Processing (NLP) · Computer Vision · Software Development · Agno · Statistical Data Analysis
 
 ---
 
-## AI/ML ENTHUSIAST & INDEPENDENT RESEARCHER
+### AI/ML ENTHUSIAST & INDEPENDENT RESEARCHER
 **Self Improvement** | Vadodara, India | *2025.01-2025.06*
 - Took multiple advanced Udemy courses in Machine Learning and Large Language Models (LLMs).
 - Participated in a live cohort-based course: “Live Building Agentic AI and Generative AI Applications with Cloud (AWS & GCP).”
