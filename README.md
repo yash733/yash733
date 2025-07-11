@@ -52,8 +52,13 @@ I am an aspiring Machine Learning/Artificial Intelligence Engineer, passionate a
 
 ## 🏢 EXPERIENCE:
 
+## AI/ML Engineer
+**Long Term Industrial Development Co.Ltd** | Tokyo, Japan | *2025.07-Present*
+
+---
+
 ## AI/ML ENTHUSIAST & INDEPENDENT RESEARCHER
-**Self Improvement** | Vadodara, India | *2025.01-Present*
+**Self Improvement** | Vadodara, India | *2025.01-2025.06*
 - Took multiple advanced Udemy courses in Machine Learning and Large Language Models (LLMs).
 - Participated in a live cohort-based course: “Live Building Agentic AI and Generative AI Applications with Cloud (AWS & GCP).”
 - Delivered a knowledge-sharing session on LLMs and agentic AI development for task automation in businesses.
