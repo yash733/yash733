@@ -54,6 +54,7 @@ I am an aspiring Machine Learning/Artificial Intelligence Engineer, passionate a
 
 ## AI/ML Engineer
 **Long Term Industrial Development Co.Ltd** | Tokyo, Japan | *2025.07-Present*
+- Skills: LangGraph · LangChain · Python · PyTorch · FastAPI · Machine Learning · Deep Learning · Natural Language Processing (NLP) · Computer Vision · Software Development · Agno · Statistical Data Analysis
 
 ---
 
