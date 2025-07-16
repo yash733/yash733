@@ -24,10 +24,6 @@ I am an aspiring Machine Learning/Artificial Intelligence Engineer, passionate a
 - **End-to-End Software Development Life Cycle Automation using LLM**<br>
   Built a [**end-to-end Streamlit application**](https://github.com/yash733/SWLC_LLM) to automate the entire Software Development Life Cycle using Large Language Models. Utilized a dynamic backend with LangGraph-style state management and feedback loops to generate user stories, blueprints, and code in real time. Integrated continuous user validation and refined prompts across development stages.<br>
   *Skills: Python, LangChain, LangGraph, Groq, Ollama, Pydantic, LangStudio*
-  
-- **Automated Report Generation System using LangGraph and Large Language Models**  
-  Built a modula [**report generation**](https://github.com/yash733/Report_Writing_Agentic_AI) system leveraging LangGraph and Groq’s LLM, implementing parallel processing architecture that reduced generation time by **40%**. Developed type-safe data pipelines using Pydantic models and orchestrated multi-node workflows for concurrent section processing. Built an agentic AI system capable of autonomous report planning, content generation, and compilation with structured outputs. Demonstrated expertise in LLM integration, parallel computing, and graph-based workflow optimization.<br> 
-  *Skills: Python, LangGraph, Groq LLM, Pydantic, LangChain, LangStudio*
 
 - **Google Trends Dashboard for Job Market Analysis**
   Analyzed [**market trends**](https://github.com/yash733/Trend_Analysis_Google_API) across **261** countries, identifying **749.67K** searches for "Data Engineer" in the past 7 days, and pinpointing **471** rising keywords alongside **0.75M** top keywords related to data engineering. Designed a dashboard, dynamically integrating Google Trends API to allow users to update fields and keywords. Optimized API usage by efficiently managing **7** requests within **4 req/sec**. Developed pages focusing on key fields, leveraging DAX for custom measures, data transformation, and feature engineering.  
