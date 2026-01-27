@@ -3,9 +3,9 @@ I am an aspiring Machine Learning/Artificial Intelligence Engineer, passionate a
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-gupta09) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/YashGup4748011) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/YashGup4748011)
 [![Email](https://img.shields.io/badge/Email-yellow.svg?logo=gmail&logoColor=white)](mailto:yash733622@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-red.svg?logo=Instagram&logoColor=darkpink)](https://www.instagram.com/yash_gupta202)
+<!--[![Instagram](https://img.shields.io/badge/Instagram-red.svg?logo=Instagram&logoColor=darkpink)](https://www.instagram.com/yash_gupta202)-->
 
 ### [![Ins](https://img.shields.io/badge/-red.svg?logo=Instagram&logoColor=darkpink)](https://www.instagram.com/yash_gupta202) Art Work's 
 <img src="https://github.com/user-attachments/assets/21338fe7-df97-406b-b64f-d9be53975afe" height="300"> <!--1--> <!--<img src="https://instagram.fbdq2-1.fna.fbcdn.net/v/t51.29350-15/237608388_592918638387696_6687981111324676237_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE0NDAuc2RyLmYyOTM1MC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fbdq2-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=Ntk5XjEyK1UQ7kNvgG1_USL&_nc_gid=fb3c085d72494fb5a3da646b22a06cde&edm=AP4sbd4BAAAA&ccb=7-5&ig_cache_key=MjY0MDk2MDA2MDA0ODcyMTgxMg%3D%3D.3-ccb7-5&oh=00_AYBxY8dQuZWncGegYTvNZXk4xKZIWC8f6hvXz3pkCm0L2Q&oe=6771949D&_nc_sid=7a9f4b" height="300"> --> <!--2--> <img src="https://github.com/user-attachments/assets/6574f97e-12ff-4fc1-9558-71253e5f0d8c" height="300"> <!--3-->
