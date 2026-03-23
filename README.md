@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an aspiring Machine Learning/Artificial Intelligence Engineer, passionate about leveraging cutting-edge technologies to create impactful solutions. With a strong foundation in Machine Learning, Computer Vision, and Data Analytics, I thrive on solving real-world problems and building innovative products.
+I am an AIML Engineer, passionate about leveraging cutting-edge technologies to create impactful solutions. With a strong foundation in Machine Learning, Computer Vision, and Data Analytics, I thrive on solving real-world problems and building innovative products.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-gupta09) 
@@ -20,22 +20,43 @@ I am an aspiring Machine Learning/Artificial Intelligence Engineer, passionate a
 </picture>
 
 
-## Highlighted Projects:
-- **End-to-End Software Development Life Cycle Automation using LLM**<br>
-  Built a [**end-to-end Streamlit application**](https://github.com/yash733/SWLC_LLM) to automate the entire Software Development Life Cycle using Large Language Models. Utilized a dynamic backend with LangGraph-style state management and feedback loops to generate user stories, blueprints, and code in real time. Integrated continuous user validation and refined prompts across development stages.<br>
-  *Skills: Python, LangChain, LangGraph, Groq, Ollama, Pydantic, LangStudio*
+## Projects:
+### [**End-to-End Software Development Life Cycle Automation using LLM**](https://github.com/yash733/SWLC_LLM)  
+**Duration:** Apr 2025 – Aug 2025  
 
-- **Google Trends Dashboard for Job Market Analysis**
-  Analyzed [**market trends**](https://github.com/yash733/Trend_Analysis_Google_API) across **261** countries, identifying **749.67K** searches for "Data Engineer" in the past 7 days, and pinpointing **471** rising keywords alongside **0.75M** top keywords related to data engineering. Designed a dashboard, dynamically integrating Google Trends API to allow users to update fields and keywords. Optimized API usage by efficiently managing **7** requests within **4 req/sec**. Developed pages focusing on key fields, leveraging DAX for custom measures, data transformation, and feature engineering.  
-  *Skills: Power BI, Figma, Clip Studio, DAX*
+- This project is a Streamlit-based application designed to automate and streamline the **Software Development Life Cycle (SDLC)** using Large Language Models (LLMs). The application provides an interactive interface for users to input their software requirements, receive generated outputs (such as user stories, blueprints, and code), and provide feedback at each stage of the development process.  
+- The workflow is powered by a backend graph-based system that manages state transitions and dynamically invokes LLMs to generate outputs.  
+**Skills:** Python, LangGraph, Groq, Pydantic, LangChain, LangStudio, Ollama, Agent, Tools  
 
-- **PUBG Player Performance Prediction**  
-  Developed a predictive [**model using CatBoost**](https://github.com/yash733/Game_Prediction/blob/main/README.md) and GPU acceleration to forecast player rankings in PUBG matches, achieving an RMSE of **0.08** and an R2 score of **0.93** on a dataset of over **4.4 million records**. Tackled challenges with the dataset, including its **size** and **unstructured** nature, by performing feature engineering to reduce **40** initial features to **30**. Utilized key features such as kills, damage dealt, and match duration to enhance accuracy and model performance.  
-  *Skills: Python, CUDA, Pandas, Numpy, Seaborn, Artificial Intelligence, Machine Learning, CatBoost, cuDNN*
+---
 
-- **Advanced Web Scraping and Data Analysis**  
-  Engineered [**automated scripts**](https://github.com/yash733/Data_Scraping_from_Youtube) to extract metadata from **1,830** videos from GeeksforGeeks YouTube, including thumbnails and descriptions. Performed trend analysis and statistical evaluations using Python, Pandas, and NumPy. Created [**interactive dashboards**](https://github.com/yash733/Data_Scraping_from_Youtube/blob/main/README.md) and visualizations in PowerBI and Excel.  
-  *Skills: Python, Excel, PowerBI, Pandas, Numpy, Selenium, BeautifulSoup, Requests*
+### [**Automated Report Generation System using LangGraph and Large Language Models**](https://github.com/yash733/Report_Writing_Agentic_AI)  
+**Duration:** Mar 2025  
+
+- Built a modular report generation system leveraging LangGraph and Groq's LLM, implementing a parallel processing architecture that reduced generation time by **40%**.  
+- Developed type-safe **data pipelines** using Pydantic models and orchestrated multi-node workflows for concurrent section processing. Built an **agentic AI** system capable of autonomous report planning, content generation, and compilation with structured outputs.  
+- Demonstrated expertise in LLM integration, parallel computing, and graph-based workflow optimization.  
+**Skills:** Python, LangGraph, Groq LLM, Pydantic, LangChain, LangStudio  
+
+---
+
+### [**Google Trends Dashboard for Job Market Analysis**](https://github.com/yash733/Trend_Analysis_Google_API)  
+**Duration:** Jun 2024 – Jul 2024  
+
+- Analyzed **market trends** across **261 countries**, identifying **749.67K** searches for "Data Engineer" in the past 7 days, and pinpointing **471** rising keywords alongside **0.75M** top keywords related to data engineering.  
+- Designed a dashboard dynamically integrating the Google Trends API, allowing users to update fields and keywords. Developed pages focusing on key fields, leveraging DAX for custom measures, data transformation, and feature engineering.  
+**Skills:** Power BI, Figma, Clip Studio, DAX  
+
+---
+
+### [**PUBG Player Performance Prediction**](https://github.com/yash733/Game_Prediction/blob/main/README.md)  
+**Duration:** May 2024 – Jun 2024  
+
+- Developed a predictive model using **CatBoost** and GPU acceleration to forecast player rankings in PUBG matches, achieving an RMSE of **0.08** and an R² score of **0.93** on a dataset of over **4.4 million records**.  
+- Addressed challenges related to dataset **size** and **unstructured nature** by performing feature engineering, reducing **40** initial features to **30**. Utilized key features such as kills, damage dealt, and match duration to improve model accuracy and performance.  
+**Skills:** Python, CUDA, Pandas, NumPy, Seaborn, Artificial Intelligence, Machine Learning, CatBoost, cuDNN  
+
+---
 
 ## 📊 GitHub Stats:
 <div align="center">
@@ -47,59 +68,54 @@ I am an aspiring Machine Learning/Artificial Intelligence Engineer, passionate a
 ---
 
 ## 🏢 EXPERIENCE:
-
-### AI/ML Engineer
-**Long Term Industrial Development Co.Ltd** | Tokyo, Japan | *2025.07-Present*
-- Skills: LangGraph · LangChain · Python · PyTorch · FastAPI · Machine Learning · Deep Learning · Natural Language Processing (NLP) · Computer Vision · Software Development · Agno · Statistical Data Analysis
-
----
-
-### AI/ML ENTHUSIAST & INDEPENDENT RESEARCHER
-**Self Improvement** | Vadodara, India | *2025.01-2025.06*
-- Took multiple advanced Udemy courses in Machine Learning and Large Language Models (LLMs).
-- Participated in a live cohort-based course: “Live Building Agentic AI and Generative AI Applications with Cloud (AWS & GCP).”
-- Delivered a knowledge-sharing session on LLMs and agentic AI development for task automation in businesses.
-- Attended local and virtual community meetups for AI/ML professionals to network, discuss trends, and share learnings.
-- Worked on personal projects exploring applications of agentic AI and cloud deployment strategies for intelligent systems
+### **AIML Engineer**  
+**Long Term Industrial Development** — *Tokyo, Japan*  
+**Duration:** Jul 2025 – Present  
+- Engineered a large-scale vehicle intelligence platform for **JACCS Cambodia** by scraping **KhmerAds** (Selenium) and **Khmer24** (Playwright). Built a regression-based valuation model achieving **86% accuracy**, securing a 2-wheeler expansion contract.  
+- Built and deployed a production-grade credit scoring system for **JACCS Philippines** using **Random Forest Classification** on an **Imbalanced High-Dimension Low Sample Size (HDLSS)** dataset, achieving **63% accuracy**.  
+- Developed an AI-driven employee mood analytics web app for **Concare**, combining **LSTM**, rule-based logic, and LLM-based feedback generation for behavioral performance insights.  
+- **Tech Stack:** Python, Node.js, Tkinter, PyTorch, Machine Learning, Selenium, Playwright, BeautifulSoup  
 
 ---
 
-### Client Implementation Intern (Product Analyst)  
-**EXXAT** | Vadodara, India | *2024.09–2024.12*  
-- Automated **15** key processes with Python scripts, saving **351.16 hours** to date. Created reports and dashboards in Excel, Power BI, and Tableau, increasing client satisfaction by **20%**.  
-- Leveraged YOLOv5 Computer Vision model to automate document processing, achieving **84%** faster workflows and **98%** accuracy, saving **9+ hours** to date, while ensuring **HIPAA** and **PIPEDA** compliance.  
-- Streamlined client onboarding and product implementation, achieving a **95%** success rate and resolving **40+** tickets.  
-- Analyzed and managed datasets of over **1M** records using SQL, Excel, and Python for accurate, data-driven insights.  
+### **Product Analyst Intern**  
+**EXXAT** — *Vadodara, India*  
+**Duration:** Sep 2024 – Dec 2024  
+- Automated **15 key processes** using Python, saving **351.16 hours** and improving operational efficiency. Built reports and dashboards that enhanced client satisfaction.  
+- Streamlined **client onboarding** and **product implementation**, achieving a **95% success rate** and resolving **40+ tickets**.  
+- Leveraged **YOLOv5** for document processing automation, achieving **84% faster workflows** and **98% accuracy**, while ensuring **HIPAA compliance**.  
+- Analyzed datasets with **1M+ records** using SQL, Excel, and Python to deliver data-driven insights.  
+- **Tech Stack:** Python, YOLO, Machine Learning, Computer Vision, Selenium, BeautifulSoup, SQL, Power BI, Tableau, Excel, Azure, MLflow  
 
 ---
 
-### Machine Learning Engineer  
-**AFame** | Bengaluru, India | *2024.06–2024.07*  
-- Analyzed large datasets, uncovering key insights and patterns, resulting in a **10%** increase in project efficiency.  
-- Developed, trained, and deployed machine learning models, achieving **92%** accuracy and reducing prediction error by **15%**.  
-- Collaborated with the team to translate technical findings into actionable recommendations, improving decision-making by **20%**.  
-- Mastered techniques for enhancing work presentation, elevating the quality of subsequent projects.  
+### **Machine Learning Engineer**  
+**AFAME** — *Bengaluru, India*  
+**Duration:** Jun 2024 – Jul 2024  
+- Built and deployed ML models achieving **92% accuracy**, reducing prediction error by **15%**. Extracted actionable insights from large datasets to improve project efficiency.  
+- **Tech Stack:** Python, Machine Learning, Data Analysis, Deep Learning, Power BI, MLflow  
 
 ---
 
-### Python Developer
-**Internshala** | Remote | *2022.06-2022.07*
-- Acquired a solid understanding of Python programming, including object-oriented principles and database connectivity using SQLite.
-- Gained hands-on experience in developing graphical user interfaces (GUIs) with PyQT for practical applications.
-- Explored Python's interdisciplinary applications across data analysis, automation, and more.
-- Completed a final project showcasing problem-solving skills, achieving a top performer rank with 90% marks in the assessment
+### **Python Engineer**  
+**INTERNSHALA** — *Bengaluru, India*  
+**Duration:** Jun 2022 – Aug 2022  
+- Developed GUI-based Python applications with **SQLite database integration**. Delivered a top-ranked final project (**90% score**) demonstrating strong OOP and automation skills.  
+- **Tech Stack:** Python, Kivy, Tkinter, MongoDB, SQL  
 
 ---
 
-### Trainee AIML Engineer  
-**Verzeo** | Bengaluru, India | *2021.06–2021.08*  
-- Conducted research contributing to a publication on facial detection technology under the supervision of Chandigarh University, reflecting a blend of academic knowledge and practical engineering prowess.  
-- Translated datasets into actionable insights, enhancing decision-making by **20%**.  
-- Created **3+** Power BI dashboards using DAX and custom visuals for real-time KPI insights, improving market responsiveness by **15%**. Improved data quality through rigorous data cleaning, reducing errors by **15%**.  
+### **Trainee AIML Engineer**  
+**VERZEO** — *Bengaluru, India*  
+**Duration:** Jun 2021 – Aug 2021  
+- Contributed to **facial detection research** under Chandigarh University supervision. Built Power BI dashboards and improved dataset quality through feature engineering.  
+- **Tech Stack:** Python, Machine Learning, Computer Vision, Deep Learning, Data Analysis, SQL, Excel  
 
 ---
 
 ## 🏫 Research Papers:
+- [**HPDBSCAN – Highly Parallel DBSCAN Implementation**](https://www.linkedin.com/posts/yashgupta-ai_hpdbscan-highly-parallel-dbscan-implementation-activity-7439265134780416000-bSFQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADm8Xn0B15E3SYZgfVt6rQuWt1Z2-3IWmbQ)
+  
 - [**An Implementation of Electronic Device User Profile Switching using Facial Detection**](https://github.com/yash733/An-Implementation-of-Electronic-Device-User-Profile-Switching-using-Facial-Detection), [**Published**](https://www.routledge.com/Emerging-Trends-in-IoT-and-Computing-Technologies-Proceedings-of-the-International-Conference-on-Emerging-Trends-in-IoT-and-Computing-Techno/Tripathi-Agarwal-Pal-Perwej/p/book/9781032879246) research paper in ICEICT-2023, under Taylor & Francis Group, SCOPUS Index.
 
 - [**Multi-Factor Authentication using Machine Learning**](https://github.com/yash733/Multifactor-Authentication-Using-Machine-Learning/blob/main/Springer_Nature_Multi-Factor%20Authentication%20using%20ML.pdf) Research paper acceptance at ICAEM-2024 Indexed By Scopus. Ref No : ICAEM240174
