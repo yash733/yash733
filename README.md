@@ -2,7 +2,7 @@
 
 I build **agentic AI, LLM and computer vision systems** and take them from experiment to production. My recent work ranges from a LangGraph-orchestrated SDLC automation platform to credit-risk and vehicle-valuation models deployed for enterprise clients.
 
-🔎 Looking for **AI Engineer · ML Engineer · Data Science** role 
+🔎 Looking for **AI Engineer · ML Engineer · Data Science** role <br>
 🎓 Published researcher (SCOPUS-indexed) in computer vision and ML
 
 ## 🌐 Socials:
